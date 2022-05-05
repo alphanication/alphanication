@@ -1,4 +1,5 @@
-<h3 align="center">Hi there, I'm Egor Vorobey. My most important goal is to get a job as an Android developer.</h3>
+<h3 align="center">Hi there, I'm Egor Vorobey.</h3>
+<h3 align="center">My most important goal is to get a job as an Android developer.</h3>
 
 <p align="left"> 
 	💻 Experience in Android development for about six months.
