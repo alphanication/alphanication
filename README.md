@@ -1,13 +1,19 @@
-<h1 align="center">Hi there, I'm Egor Vorobey</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Hi there, I'm Egor Vorobey. My most important goal is to get a job as an Android developer.</h3>
 
-<p align="center"> 
+<p align="left"> 
 	💻 Experience in Android development for about six months.
-	💫 I’m currently working on a <a href="https://github.com/alphanication/Dispatch">Dispatch</a> pet-project.
 </p>
 
-<p align="center"> 
+<p align="left"> 
+	📓 I keep my <a href="https://t.me/androidevlog">study-diary</a> for self-discipline. I try to work every day and learn useful skills.
+</p>
+
+<p align="left"> 
 	🐧 I am a GNU\Linux fan.
+</p>
+
+<p align="left"> 
+	💫 I’m currently working on a <a href="https://github.com/alphanication/Dispatch">Dispatch</a> pet-project.
 </p>
 
 <p align="center"> 
@@ -21,12 +27,3 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-
-<hr />
-
-<p align="center"> 
-	<img src ="https://github-readme-streak-stats.herokuapp.com?user=alphanication&theme=midnight-purple">
-	<img src ="https://github-readme-stats.vercel.app/api?username=alphanication&theme=midnight-purple">
-</p>
-
-<hr />
