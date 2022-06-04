@@ -2,7 +2,7 @@
 <h3 align="center">My most important goal is to get a job as an Android developer.</h3>
 
 <p align="left"> 
-	💻 Experience in Android development for about six months.
+	💻 Experience in Android development for over seven months.
 </p>
 
 <p align="left"> 
