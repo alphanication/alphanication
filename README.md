@@ -13,10 +13,6 @@
 	🐧 I am a GNU\Linux fan.
 </p>
 
-<p align="left"> 
-	💫 I’m currently working on a <a href="https://github.com/alphanication/Dispatch">Dispatch</a> pet-project.
-</p>
-
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/egor-vorobey-938a41236/">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
