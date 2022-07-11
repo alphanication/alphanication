@@ -1,17 +1,4 @@
-<h3 align="center">Hi there, I'm Egor Vorobey.</h3>
-<h3 align="center">My most important goal is to get a job as an Android developer.</h3>
-
-<p align="left"> 
-	💻 Over 8 months experience in Android development.
-</p>
-
-<p align="left"> 
-	📓 I keep my <a href="https://t.me/androidevlog">study-diary</a> for self-discipline. I try to work every day and learn useful skills.
-</p>
-
-<p align="left"> 
-	🐧 I am a GNU\Linux fan.
-</p>
+<h3 align="center">Hi there, I'm Android Developer in SFERA project. We will not change the world, we will rewrite the code.</h3>
 
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/egor-vorobey-938a41236/">
