@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Android Developer at SFERA project.</h3>
+<h3 align="center">I'm Android Developer at SFERA project.</h3>
 
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/egor-vorobey-938a41236/">
