@@ -1,4 +1,4 @@
-<h3 align="center">I'm Android Developer at SFERA project.</h3>
+<h3 align="center">I'm Middle Software Engineer (Android) at SFERA project.</h3>
 
 <p align="center"> 
 	<a href="https://t.me/alphanication/">
